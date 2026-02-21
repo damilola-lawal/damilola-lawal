@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Damilola Lawal 👩🏽‍💻
 
-<!--
-**damilola-lawal/damilola-lawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Entry-Level Data Analyst
+📊 Excel | SQL | Power BI
+📍 Nigeria
 
-Here are some ideas to get you started:
+About Me
+I am a data analyst passionate about transforming raw data into an actionable insights that support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Data Cleaning (Excel & SQL)
+Data Analysis
+Dashboard Development (Power BI)
+Basic SQL Queries
+
+Projects
+Food Posioning Analysis
+Betting Addiction Trends
+Sales Data Analysis
+
+Currently Learning
+Advanced SQL
+Data storytelling
