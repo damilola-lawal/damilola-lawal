@@ -1,23 +1,18 @@
-Hi, I'm Damilola Lawal 👩🏽‍💻
+# Hi, I'm Damilola Lawal 👩🏽‍💻
 
-🎯 Entry-Level Data Analyst
-📊 Excel | SQL | Power BI
-📍 Nigeria
+🎯 Entry-Level Data Analyst  
+📊 Skilled in Excel, SQL, and Power BI  
+📍 Based in Nigeria  
 
-About Me
-I am a data analyst passionate about transforming raw data into an actionable insights that support better decision-making.
+## About Me
+I am passionate about transforming raw data into meaningful insights that support decision-making.
 
-Skills
-Data Cleaning (Excel & SQL)
-Data Analysis
-Dashboard Development (Power BI)
-Basic SQL Queries
+## Tools
+- Excel
+- SQL
+- Power BI
 
-Projects
-Food Posioning Analysis
-Betting Addiction Trends
-Sales Data Analysis
-
-Currently Learning
-Advanced SQL
-Data storytelling
+## Projects
+- Food Posioning Analysis
+- Betting Addiction Trends
+- Sales Data Analysis
